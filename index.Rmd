@@ -1,0 +1,16 @@
+---
+title: "Exercise in html github hosting"
+author: "Edmond Dantes"
+date: "11/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, include = FALSE}
+source("code.R")
+```
+
+I'm going to write something down here. **Quarantine** has been _weird time_ eh? We normally rate our feelings in a way of `r my_var1` but now, we express it in terms of `r my_var2`.
